@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:id="@+id/action_public"
+    android:enabled="true"
+    android:title="News"
+    android:icon="@drawable/ic_public_black_24dp"
+   />
+
+    <item
+        android:id="@+id/action_person"
+        android:enabled="true"
+        android:title="Manage"
+        android:icon="@drawable/ic_person_black_24dp"
+        />
+
+    <item
+        android:id="@+id/action_reorder"
+        android:enabled="true"
+        android:title="Menu"
+        android:icon="@drawable/ic_reorder_black_24dp"
+       />
+</menu>
